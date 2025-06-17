@@ -51,7 +51,7 @@
         "id":9,
         "nombre":"Conchas",
         "imagen":"imagenes/concha.jpg",
-        "precio": 15
+        "precio": 10
     },
     {
         "id":10,
