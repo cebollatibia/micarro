@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Café Americano",
+        "imagen": "imagenes/americano.jpg", 
+        "precio": 35 
+    },
+    {
+        "id": 2,
+        "nombre": "Café Latte",
+        "imagen": "imagenes/latte.jpg", 
+        "precio": 40 
+    },
+    {
+        "id": 3,
+        "nombre": "Café Mocha",
+        "imagen": "imagenes/mocha.jpg", 
+        "precio": 45 
+    },
+    {
+        "id": 4,
+        "nombre": "Café Capuchino",
+        "imagen": "imagenes/capuchino.jpg", 
+        "precio": 45 
+    },
+    {
+        "id": 5,
+        "nombre": "Café Expresso",
+        "imagen": "imagenes/expreso.jpg", 
+        "precio": 30
+    },
+    {
+        "id":6,
+        "nombre": "Croissant",
+        "imagen": "imagenes/Croasan.jpg",
+        "precio": 28
+    },
+    {
+        "id":7,
+        "nombre":"Pan de chocolate",
+        "imagen":"imagenes/panDeChocolate.jpg",
+        "precio": 30
+    },
+    {
+        "id":8,
+        "nombre":"Pay de queso con zarzamora",
+        "imagen":"imagenes/payDeQuesoZarzamora.jpg",
+        "precio": 40
+    },
+    {
+        "id":9,
+        "nombre":"Conchas",
+        "imagen":"imagenes/concha.jpg",
+        "precio": 15
+    },
+    {
+        "id":10,
+        "nombre":"Sandwiches",
+        "imagen":"imagenes/chanwich.jpg",
+        "precio": 25
+    }
+]
