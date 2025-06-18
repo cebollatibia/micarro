@@ -44,14 +44,14 @@
     {
         "id":8,
         "nombre":"Pay de queso con zarzamora",
-        "imagen":"imagenes/payDeQuesoZarzamora.jpg",
+        "imagen":"imagenes/payDeZarzamora.jpg",
         "precio": 40
     },
     {
         "id":9,
         "nombre":"Conchas",
         "imagen":"imagenes/concha.jpg",
-        "precio": 10
+        "precio": 15
     },
     {
         "id":10,
